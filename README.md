@@ -1,9 +1,9 @@
 - 👋 Hi, I’m SANJAY PANCHAL
 - 👀 Programming is my passion
-- 🌱 I’m currently learning -- Machine Learning with Python
+- 🌱 I’m currently working on Machine Learning Projects with Python Implementation
 - 📫 How to reach me  :- +91-9068068086
 
-  Working on Machine learning Projects.....
+  
 
 <!---
 SANJAY9068068086/SANJAY9068068086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
